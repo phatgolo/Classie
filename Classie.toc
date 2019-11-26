@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Classie
+## Version: 3.0.0
+## Notes: Lorem ipsum
+
+Classie.lua
